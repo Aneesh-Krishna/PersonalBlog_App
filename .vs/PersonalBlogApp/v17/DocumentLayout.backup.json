@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|c:\\users\\aneea\\source\\repos\\personalblogapp\\personalblogapp\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|solutionrelative:personalblogapp\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|c:\\users\\aneea\\source\\repos\\personalblogapp\\personalblogapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|solutionrelative:personalblogapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|c:\\users\\aneea\\source\\repos\\personalblogapp\\personalblogapp\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|solutionrelative:personalblogapp\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|c:\\users\\aneea\\source\\repos\\personalblogapp\\personalblogapp\\views\\blogposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|solutionrelative:personalblogapp\\views\\blogposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|c:\\users\\aneea\\source\\repos\\personalblogapp\\personalblogapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|solutionrelative:personalblogapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|c:\\users\\aneea\\source\\repos\\personalblogapp\\personalblogapp\\data\\migrations\\20241022164110_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|solutionrelative:personalblogapp\\data\\migrations\\20241022164110_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|c:\\users\\aneea\\source\\repos\\personalblogapp\\personalblogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|solutionrelative:personalblogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|c:\\users\\aneea\\source\\repos\\personalblogapp\\personalblogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|solutionrelative:personalblogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|c:\\users\\aneea\\source\\repos\\personalblogapp\\personalblogapp\\data\\migrations\\20241022163910_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|solutionrelative:personalblogapp\\data\\migrations\\20241022163910_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|c:\\users\\aneea\\source\\repos\\personalblogapp\\personalblogapp\\data\\migrations\\20241022162119_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928BEF57-5835-4576-A591-23E4F312E588}|PersonalBlogApp\\PersonalBlogApp.csproj|solutionrelative:personalblogapp\\data\\migrations\\20241022162119_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Views\\BlogPosts\\Index.cshtml",
+              "RelativeDocumentMoniker": "PersonalBlogApp\\Views\\BlogPosts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Views\\BlogPosts\\Index.cshtml",
+              "RelativeToolTip": "PersonalBlogApp\\Views\\BlogPosts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T03:59:55.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogPostsController.cs",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Controllers\\BlogPostsController.cs",
+              "RelativeDocumentMoniker": "PersonalBlogApp\\Controllers\\BlogPostsController.cs",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Controllers\\BlogPostsController.cs",
+              "RelativeToolTip": "PersonalBlogApp\\Controllers\\BlogPostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:31:39.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PersonalBlogApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PersonalBlogApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:30:02.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "PersonalBlogApp\\Models\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Models\\BlogPost.cs",
+              "RelativeToolTip": "PersonalBlogApp\\Models\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:22:22.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "PersonalBlogApp\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "PersonalBlogApp\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:27:53.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241022164110_ThirdMigration.cs",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Data\\Migrations\\20241022164110_ThirdMigration.cs",
+              "RelativeDocumentMoniker": "PersonalBlogApp\\Data\\Migrations\\20241022164110_ThirdMigration.cs",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Data\\Migrations\\20241022164110_ThirdMigration.cs",
+              "RelativeToolTip": "PersonalBlogApp\\Data\\Migrations\\20241022164110_ThirdMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:41:11.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241022163910_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Data\\Migrations\\20241022163910_SecondMigration.cs",
+              "RelativeDocumentMoniker": "PersonalBlogApp\\Data\\Migrations\\20241022163910_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Data\\Migrations\\20241022163910_SecondMigration.cs",
+              "RelativeToolTip": "PersonalBlogApp\\Data\\Migrations\\20241022163910_SecondMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:39:10.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Program.cs",
+              "RelativeDocumentMoniker": "PersonalBlogApp\\Program.cs",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Program.cs",
+              "RelativeToolTip": "PersonalBlogApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:33:24.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PersonalBlogApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\appsettings.json",
+              "RelativeToolTip": "PersonalBlogApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T16:19:02.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241022162119_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Data\\Migrations\\20241022162119_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PersonalBlogApp\\Data\\Migrations\\20241022162119_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\PersonalBlogApp\\PersonalBlogApp\\Data\\Migrations\\20241022162119_InitialCreate.cs",
+              "RelativeToolTip": "PersonalBlogApp\\Data\\Migrations\\20241022162119_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:21:19.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
